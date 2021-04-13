@@ -4,5 +4,4 @@
 
 - 🔭 I’m currently working in Application Security
 - 🌱 I’m currently learning all the things!
-- ⚡ Fun fact: I don't like tomato sauce.
--->
+- ⚡ Fun fact: I don't like tomato sauce
